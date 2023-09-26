@@ -6,13 +6,11 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently an undergraduate at [College of Oceanic and Atmospheric Sciences](http://eweb.ouc.edu.cn/coasouc/) and [Ocean University of China](http://www.ouc.edu.cn/main.htm), working under the mentorship of Dr. [Jian Shi](http://coas.ouc.edu.cn/2023/0602/c8874a434262/page.htm). My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation.
+I am currently an undergraduate at [College of Oceanic and Atmospheric Sciences](http://eweb.ouc.edu.cn/coasouc/) and [Ocean University of China](http://www.ouc.edu.cn/main.htm), working under the mentorship of Dr. [Jian Shi](http://coas.ouc.edu.cn/2023/0602/c8874a434262/page.htm). My research focus on extreme events, especially for Marine Heatwaves and Warm Blobs and their mechanisms.
 ## Research Interest:
-- **Ion-material Simulation:** SRIM, iradina, IMSIL, CORETO, TRIDYN, MARLOWE, RustBCA
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+- **Extreme Event** : Warm Blobs, Marine Heatwaves
+- **Mesoscale Eddy** Interaction between ocean and atmosphere
+- **Equatorial Waves and their mechanism**
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/projects.md %}
